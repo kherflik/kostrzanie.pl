@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kostrzanie.pl",
+    "description": "",
+    "home_page_url": "https://kherflik.github.io/kostrzanie.pl",
+    "feed_url": "https://kherflik.github.io/kostrzanie.pl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Krzysztof"
+    },
+    "items": [
+    ]
+}
